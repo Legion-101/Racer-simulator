@@ -1,0 +1,14 @@
+D:\Study\IFMO\OOP\Races\bin\Debug\net7.0\Race_Simulator-lab-2-OOP.exe
+D:\Study\IFMO\OOP\Races\bin\Debug\net7.0\Race_Simulator-lab-2-OOP.deps.json
+D:\Study\IFMO\OOP\Races\bin\Debug\net7.0\Race_Simulator-lab-2-OOP.runtimeconfig.json
+D:\Study\IFMO\OOP\Races\bin\Debug\net7.0\Race_Simulator-lab-2-OOP.dll
+D:\Study\IFMO\OOP\Races\bin\Debug\net7.0\Race_Simulator-lab-2-OOP.pdb
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.AssemblyInfoInputs.cache
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.AssemblyInfo.cs
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.csproj.CoreCompileInputs.cache
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.dll
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\refint\Race_Simulator-lab-2-OOP.dll
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.pdb
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\Race_Simulator-lab-2-OOP.genruntimeconfig.cache
+D:\Study\IFMO\OOP\Races\obj\Debug\net7.0\ref\Race_Simulator-lab-2-OOP.dll
